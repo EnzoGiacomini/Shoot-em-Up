@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      istockphoto-1313501907-612x612-removebg-preview_0: 4842123664590629057
+      istockphoto-1313501907-612x612-removebg-preview_1: -7931613152624074682
+      istockphoto-1313501907-612x612-removebg-preview_2: 1649922352328458572
+      istockphoto-1313501907-612x612-removebg-preview_3: 2247411921265696354
+      istockphoto-1313501907-612x612-removebg-preview_4: 5401854467108949356
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
