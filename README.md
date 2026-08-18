@@ -4,8 +4,6 @@ A 2D top-down shoot 'em up built in Unity, with three enemy archetypes, a drop-b
 
 First project of the **Oficina Indie** course (André Young), built from the course material and open-ended direction rather than a step-by-step tutorial.
 
-> **Add here:** a GIF of gameplay (boss fight is the best pick) and a link to a playable WebGL build.
-
 ---
 
 ## Gameplay
